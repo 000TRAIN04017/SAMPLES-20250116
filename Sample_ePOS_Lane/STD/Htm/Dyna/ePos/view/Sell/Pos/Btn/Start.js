@@ -209,7 +209,7 @@ Ext.define('ePos.view.Sell.Pos.Btn.Start', {
 					smsHelp: 'usersV4:Home/Help.htm',
 					flex: 2,
 					itemId: 'FCT45',
-					userCls: 'sms-btn-lightblue',
+					userCls: 'sms-btn-darkblue',
 					text: 'Weight',
 					iconAlign: 'left',
 					scale: 'small'
