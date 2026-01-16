@@ -231,7 +231,7 @@ Ext.define('ePos.view.Sell.Pos.Btn.Start', {
 					smsHelp: 'usersV4:Home/Help.htm',
 					flex: 1,
 					itemId: 'FCT716ITM110',
-					userCls: 'sms-btn-darkblue',
+					userCls: 'sms-btn-lighblue',
 					text: 'Grocery',
 					iconAlign: 'left',
 					scale: 'medium'
@@ -288,7 +288,7 @@ Ext.define('ePos.view.Sell.Pos.Btn.Start', {
 					smsHelp: 'usersV4:Home/Help.htm',
 					flex: 1,
 					itemId: 'FCT716ITM130',
-					userCls: 'sms-btn-red',
+					userCls: 'sms-btn-lightblue',
 					text: 'Deli',
 					iconAlign: 'left',
 					scale: 'medium'

@@ -94,7 +94,7 @@ INSERT INTO DSS_LOAD VALUES
 (30,LIVE,Sample_ePOS_Lane\FirstLoad,CGI,ePos_sell_site_demo_popup.xml,2025015 15:30:36,@DJSF @FMT(T6F,@NOW),D7682953),
 (30,LIVE,Sample_ePOS_Lane\FirstLoad,OFFICE,ePos_sell_site_demo_popup.sqi,2025016 09:57:08,@DJSF @FMT(T6F,@NOW),4931A78A),
 (30,LIVE,Sample_ePOS_Lane\RESTO,Dyna-ePos,view\Sell\Pos\Btn\Food.js,2025220 10:27:20,@DJSF @FMT(T6F,@NOW),0DCDBAF8),
-(30,LIVE,Sample_ePOS_Lane\RESTO,Dyna-ePos,view\Sell\Pos\Btn\Start.js,2026007 08:36:56,@DJSF @FMT(T6F,@NOW),62486B5B),
+(30,LIVE,Sample_ePOS_Lane\RESTO,Dyna-ePos,view\Sell\Pos\Btn\Start.js,2026016 13:48:02,@DJSF @FMT(T6F,@NOW),28A54903),
 (30,LIVE,Sample_ePOS_Lane\RESTO,Dyna-ePos,view\Sell\Pos\Btn\Sub12.js,2026009 13:41:52,@DJSF @FMT(T6F,@NOW),AEAAE37E),
 (30,LIVE,Sample_ePOS_Lane\RESTO,Dyna-ePos,view\Sell\Pos\Btn\Sub6.js,2026009 13:42:12,@DJSF @FMT(T6F,@NOW),1446212B),
 (30,LIVE,Sample_ePOS_Lane\STD,Dyna-ePos,view\Sell\Pos\Btn\Start.js,2026016 13:09:24,@DJSF @FMT(T6F,@NOW),993BE81F),
